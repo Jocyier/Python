@@ -1,1 +1,2 @@
-123
+Hello,I'm Rose.
+This is my coding record.
